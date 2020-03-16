@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2765153d-0faa-4e39-b404-f806a0a2067c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/my-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,14 +66,30 @@
       <updated>1584350862811</updated>
       <workItem from="1584350865194" duration="539000" />
       <workItem from="1584351423684" duration="3813000" />
-      <workItem from="1584359214118" duration="791000" />
+      <workItem from="1584359214118" duration="1005000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;configuration to run with postgresql&quot;">
+      <created>1584360571631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360571631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;configuration to run with postgresql&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;configuration to run with postgresql&quot;" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2505" y="114" key="CommitChangelistDialog2" timestamp="1584360571097">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2505" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584360571097" />
     <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1584359234232">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -105,6 +114,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584351299407" />
+    <state x="2472" y="241" key="Vcs.Push.Dialog.v2" timestamp="1584360748683">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584360748683" />
     <state x="2575" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584359214603">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
