@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## RESOURCE
+
+This test to learn quarkus use many tutorials. Majority of code provide not from me but from tutorials found in the net. 
+References to this tutorials are :
+- https://medium.com/keycloak/quarkus-and-react-integration-with-keycloak-e03eb82d8cd
+- https://quarkus.io/guides/security-keycloak-authorization
+
 ## Available Scripts
 
 In the project directory, you can run:
